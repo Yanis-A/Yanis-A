@@ -1,0 +1,6 @@
+- 👋 Hello, je suis @Yanis-A
+- 📍 Je vis en Ile-de-France
+- 👀 Mes intérêts sont portés sur le développement front-end et la production musicale
+- 📚 Actuellement en 2e année de formation en développement web à L'Ecole Multimédia à Paris
+- 💞️ Je suis actuellement en recherche de stage à partir de xxx 2021 et d'alternance pour l'année 2021-2022 !
+- 📫 Contactez-moi : yanisarenes@gmail.com
