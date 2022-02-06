@@ -1,6 +1,7 @@
-- 👋 Hello, je suis @Yanis-A
-- 📍 Je vis en Ile-de-France
-- 👀 Mes intérêts sont portés sur le développement front-end et la production musicale
+- 👋 Hi, I'm Yanis!
+- 📍 I live in parisian suburbia.
+- 👀 I enjoy experimenting and learning about front-end development and music production, also playing drums and videogames (a lot).
 - 📚 Actuellement en 2e année de formation en développement web à L'Ecole Multimédia à Paris
-- 🙋 Je suis actuellement en recherche de stage à partir du 18 avril 2021 et d'alternance pour l'année 2021-2022 !
-- 📫 Contactez-moi! : yanisarenes@gmail.com
+- 🧳 I love travelling! I already spent some time in Tokyo, New-York, Miami, Orlando, Barcelona, Madrid, London, Guadeloupe, Martinique and seen some cities of France, Switzerland...
+- 🙋 I am currently looking for an internship from April 18, 2021 and work-study for the year 2021-2022!
+- 📫 Let's get in touch! : yanisarenes@gmail.com
