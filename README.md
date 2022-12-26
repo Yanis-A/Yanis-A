@@ -8,5 +8,5 @@
 📚 Currently in **3rd year of formation in front web dev**.<br>
 🧳 I love **travelling**! I already spent some time in Tokyo, New-York, Miami, Orlando, Barcelona, Madrid, London, Amsterdam, Guadeloupe, Martinique and seen some cities of France, Switzerland...<br>
 🙋 I am currently working as an **apprentice at E-XTEQ Europe**!<br>
-🌐 [My website](https://yarenes-portfolio.web.app/){:target="_blank"}<br>
+🌐 <a href="https://yarenes-portfolio.web.app/" target="_blank">My website</a><br>
 📫 **[Let's get in touch!](mailto:yanisarenes@gmail.com?subject=Hello!)**<br>
