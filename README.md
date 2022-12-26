@@ -4,4 +4,5 @@
 - 📚 Currently in 3rd year of formation in front web dev at L'École Multimédia in Paris.
 - 🧳 I love travelling! I already spent some time in Tokyo, New-York, Miami, Orlando, Barcelona, Madrid, London, Amsterdam, Guadeloupe, Martinique and seen some cities of France, Switzerland...
 - 🙋 I am currently working as an apprentice at E-XTEQ Europe!
+- 🌐 My website: https://yarenes-portfolio.web.app/
 - 📫 Let's get in touch! : yanisarenes@gmail.com
