@@ -5,7 +5,7 @@
 👋 Hi, I'm Yanis and i'm 20!<br>
 📍 I live in parisian suburbia.<br>
 👀 I enjoy experimenting and learning about **front-end development** and **music production**, also **playing drums and videogames** (a lot).<br>
-📚 Currently in **3rd year of formation in front web dev**.<br>
+📚 Currently in <b>3rd year of formation in front web dev<b>.<br>
 🧳 I love **travelling**! I already spent some time in Tokyo, New-York, Miami, Orlando, Barcelona, Madrid, London, Amsterdam, Guadeloupe, Martinique and seen some cities of France, Switzerland...<br>
 🙋 I am currently working as an **apprentice at E-XTEQ Europe**!<br>
 🌐 <a href="https://yarenes-portfolio.web.app/" target="_blank">My website</a><br>
